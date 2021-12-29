@@ -1,0 +1,12 @@
+{
+  "name": "auto-smtp-mailer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "Tristan264 <tristan.bschwenk@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "nodemailer": "^6.7.2"
+  }
+}
